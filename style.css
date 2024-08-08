@@ -1,0 +1,7 @@
+h1 {
+    background: linear-gradient(to right, rgb(0, 0, 76) 5%, rgb(255, 195, 74)50%);
+    color: transparent;
+    -webkit-background-clip: text;
+    font-size: 50px;
+    text-transform: uppercase;
+}
